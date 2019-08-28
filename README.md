@@ -1,4 +1,4 @@
-# Electronic lock and IoT access control
+# Electronic Locked Access Control and Arduino - An IoT Solution
 An access control system is a solution adopted for several security problems,
 and to provide a little more security to users and their properties. Through this
 technology, it is possible to extract management knowledge: knowing who is inside
