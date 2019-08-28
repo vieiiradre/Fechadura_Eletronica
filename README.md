@@ -1,5 +1,4 @@
-# Fechadura_Eletronica
-Fechadura Eletrônica com Arduino e Internet das Coisas
+# Electronic lock and IoT access control
 An access control system is a solution adopted for several security problems,
 and to provide a little more security to users and their properties. Through this
 technology, it is possible to extract management knowledge: knowing who is inside
